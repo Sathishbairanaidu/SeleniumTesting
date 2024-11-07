@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-21T11:30:22 IST" name="Default suite" finished-at="2024-10-21T11:34:00 IST" duration-ms="217893">
+    <groups>
+    </groups>
+    <test started-at="2024-10-21T11:30:22 IST" name="Default test" finished-at="2024-10-21T11:34:00 IST" duration-ms="217893">
+      <class name="org.test.SampleTest">
+        <test-method is-config="true" signature="launchBrowsermethod()[pri:0, instance:org.test.SampleTest@6253c26]" started-at="2024-10-21T11:30:22 IST" name="launchBrowsermethod" finished-at="2024-10-21T11:31:00 IST" duration-ms="38506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowsermethod -->
+        <test-method signature="tc1()[pri:-10, instance:org.test.SampleTest@6253c26]" started-at="2024-10-21T11:31:00 IST" name="tc1" finished-at="2024-10-21T11:31:15 IST" duration-ms="14217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method signature="tc5()[pri:-5, instance:org.test.SampleTest@6253c26]" started-at="2024-10-21T11:31:15 IST" name="tc5" finished-at="2024-10-21T11:31:30 IST" duration-ms="15110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5 -->
+        <test-method signature="tc7()[pri:-3, instance:org.test.SampleTest@6253c26]" started-at="2024-10-21T11:31:30 IST" name="tc7" finished-at="2024-10-21T11:31:31 IST" duration-ms="1036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc7 -->
+        <test-method signature="tc4()[pri:0, instance:org.test.SampleTest@6253c26]" started-at="2024-10-21T11:31:31 IST" name="tc4" finished-at="2024-10-21T11:31:59 IST" duration-ms="28645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method signature="tc3()[pri:2, instance:org.test.SampleTest@6253c26]" started-at="2024-10-21T11:31:59 IST" name="tc3" finished-at="2024-10-21T11:32:09 IST" duration-ms="9798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method signature="tc2()[pri:5, instance:org.test.SampleTest@6253c26]" started-at="2024-10-21T11:32:09 IST" name="tc2" finished-at="2024-10-21T11:32:26 IST" duration-ms="16605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method signature="tc6()[pri:11, instance:org.test.SampleTest@6253c26]" started-at="2024-10-21T11:32:26 IST" name="tc6" finished-at="2024-10-21T11:34:00 IST" duration-ms="93799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc6 -->
+        <test-method is-config="true" signature="closeTheBrowser()[pri:0, instance:org.test.SampleTest@6253c26]" started-at="2024-10-21T11:34:00 IST" name="closeTheBrowser" finished-at="2024-10-21T11:34:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheBrowser -->
+      </class> <!-- org.test.SampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
